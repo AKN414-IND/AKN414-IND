@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKN414-IND
 - 👀 I’m interested in coding ,drawing ,crafting 
-- 🌱 I’m currently learning india
+- 🌱 I’m currently learning from basic coding
 - 💞️ I’m looking to collaborate all friendly coders 
 
 <!---
