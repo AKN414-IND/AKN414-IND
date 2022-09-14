@@ -2,8 +2,5 @@
 - 👀 I’m interested in coding ,drawing ,crafting 
 - 🌱 I’m currently learning from basic coding
 - 💞️ I’m looking to collaborate all friendly coders 
+- contact me :- [![](https://img.shields.io/badge/Programs%20by-Arun%20K%20Nair-orange)](mailto:arunknair.cse21@jecc.ac.in)
 
-<!---
-AKN414-IND/AKN414-IND is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
