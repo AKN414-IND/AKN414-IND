@@ -3,10 +3,10 @@
 
 <h1 align="center">presenting AK ! </h1>
 <h4 align="center"></h4>
-- 👋 Hi, I’m Arun K Nair
-- 👀 I’m interested in coding ,drawing ,crafting 
-- 🌱 I’m currently learning from basic coding
-- 💞️ I’m looking to collaborate all friendly coders 
+- 👋 Hi, I’m Arun K Nair<br>
+- 👀 I’m interested in coding ,drawing ,crafting <br>
+- 🌱 I’m currently learning from basic coding<br>
+- 💞️ I’m looking to collaborate all friendly coders <br>
 - - [![](https://img.shields.io/badge/Contact%20Me-Arun%20K%20Nair-orange)](mailto:arunknair.cse21@jecc.ac.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha2180&label=Profile%20views&color=0e75b6&style=plastic"/> </p>
 
