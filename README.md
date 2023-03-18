@@ -13,5 +13,6 @@
 <a href="https://www.linkedin.com/in/curious-driven-learner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   
 <h4 align="center">my git performance</h4>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKN414-IND&show_icons=true&theme=dark&locale=en&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=AKN414-IND&show_icons=true&locale=en" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AKN414-IND&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKN414-IND&show_icons=true&theme=dark&locale=en&layout=compact" /></p>
