@@ -14,6 +14,6 @@
   
 <h4 align="center">my git performance</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKN414-IND&show_icons=true&theme=dark&locale=en&layout=compact" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AKN414-IND&show_icons=true&locale=en" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AKN414-IND&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&theme=dark" /></p>
 </p>
