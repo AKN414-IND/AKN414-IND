@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AKN414-IND/static/css/main.66de8117.css",
+    "main.js": "/AKN414-IND/static/js/main.513a3be9.js",
+    "static/media/landing@3x.png": "/AKN414-IND/static/media/landing@3x.449a743f22c6ac9e57cd.png",
+    "static/media/product1@3x.png": "/AKN414-IND/static/media/product1@3x.99afdcd7a8135609de5a.png",
+    "index.html": "/AKN414-IND/index.html",
+    "main.66de8117.css.map": "/AKN414-IND/static/css/main.66de8117.css.map",
+    "main.513a3be9.js.map": "/AKN414-IND/static/js/main.513a3be9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66de8117.css",
+    "static/js/main.513a3be9.js"
+  ]
+}
