@@ -2,13 +2,13 @@
 
 # Arun K Nair - Aspiring Unicorn Developer 🦄
 
-🌍 Based in Kerala, India
+##🌍 Based in Kerala, India
 
-✉️ Contact me at [arunknair2003@gmail.com](mailto:arunknair2003@gmail.com)
+##✉️ Contact me at [arunknair2003@gmail.com](mailto:arunknair2003@gmail.com)
 
-🧠 Learning UX and Web Development
+##🧠 Learning UX and Web Development
 
-🤝 Open to collaborating on interesting projects and freelance work
+##🤝 Open to collaborating on interesting projects and freelance work
 
 ---
 
