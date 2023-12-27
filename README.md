@@ -36,3 +36,22 @@ src="https://img.shields.io/twitter/follow/ArunKNa94162991?logo=twitter&style=fo
 <a href="http://www.github.com/AKN414-IND"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/AKN414-IND" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKN414-IND&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+-------------------------------------------------------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AKN414-IND&label=Profile%20views&color=0e75b6&style=flat" alt="AKN414-IND" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AKN414-IND" alt="AKN414-IND" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKN414-IND&show_icons=true&locale=en&layout=compact" alt="AKN414-IND" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AKN414-IND&show_icons=true&locale=en" alt="AKN414-IND" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&" alt="AKN414-IND" /></p>
+
