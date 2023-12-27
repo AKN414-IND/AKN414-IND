@@ -33,9 +33,8 @@
 
 ---
 
-### Socials
-
-<p align="left">
+<div style="background-color: white; padding: 10px; border-radius: 5px;">
+  <h1>Social   
   <a href="https://discord.com/users/arunknair" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
@@ -54,28 +53,33 @@
   <a href="https://www.threads.net/@arun_k_nair_2003" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" />
   </a>
-</p>
+  </h1>
+</div>
 
 ---
 
 ### Badges
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=akn414-ind" alt="GitHub Profile Trophy" />
-</a>
-
+  <div style="background-color: white; padding: 10px; border-radius: 5px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=akn414-ind" alt="GitHub Profile Trophy" style="width: auto;" />
+  </div>
+  
 ---
 
 <b>My GitHub Stats</b>
 
-<p>
-  <a href="http://www.github.com/AKN414-IND">
-    <img src="https://github-readme-stats.vercel.app/api?username=AKN414-IND&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AKN414-IND's GitHub Stats" />
-  </a>
-  <a href="http://www.github.com/AKN414-IND">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-  <a href="https://github.com/AKN414-IND" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKN414-IND&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
+<div>
+  <div style="float: right; width: 10%;">
+    <a href="https://github.com/AKN414-IND">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKN414-IND&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+  </div>
+  <div style="float: left; width: 50%;">
+    <a href="http://www.github.com/AKN414-IND">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKN414-IND&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+    <a href="http://www.github.com/AKN414-IND">
+      <img src="https://github-readme-stats.vercel.app/api?username=AKN414-IND&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AKN414-IND's GitHub Stats" />
+    </a>
+  </div>
+</div>
 </p>
