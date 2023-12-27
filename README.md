@@ -3,8 +3,11 @@
 # Arun K Nair - Aspiring Unicorn Developer 🦄
 
 🌍 Based in Kerala, India
+
 ✉️ Contact me at [arunknair2003@gmail.com](mailto:arunknair2003@gmail.com)
+
 🧠 Learning UX and Web Development
+
 🤝 Open to collaborating on interesting projects and freelance work
 
 ---
